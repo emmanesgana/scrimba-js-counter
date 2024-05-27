@@ -1,4 +1,4 @@
-#Live Demo
+# Live Demo
 
 https://scrimba-js-cat-counter.netlify.app/
 
