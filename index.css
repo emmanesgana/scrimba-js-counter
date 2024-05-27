@@ -1,6 +1,5 @@
 body {
-    background-image: url("cat-bg.png");
-    background-size: cover;
+    background-color: rgb(217, 151, 233);
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: bold;
     text-align: center;
